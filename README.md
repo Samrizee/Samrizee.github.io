@@ -11,6 +11,11 @@ I am a **Digital Health Developer and Computational Data Scientist** passionate 
 
 ### 🚀 Key Projects & Repositories
 
+#### 🌍 Social Impact & Cultural NLP
+* **[AI-learning-companion](https://github.com/Samrizee/AI-learning-companion) (Active Work) **
+  * *Description:* A voice-first, RAG-powered learning companion that delivers educational content in indigenous African languages. It uses an end-to-end processing pipeline to extract content from textbooks, translate/culturally adapt it, and deliver it via speech architectures so children can learn in the languages they think in.
+  * *Tools:* Python, RAG Pipeline (Ingestion & Vector Embedding), Translation Layers, Speech-to-Text (STT) & Text-to-Speech (TTS).
+
 #### 🏥 Digital Health & Epidemiological Modeling
 * **[vectri-ml-malaria](https://github.com/Samrizee/vectri-ml-malaria) (Active Work)**
   * *Description:* A hybrid predictive framework integrating the VECTRI epidemiological model with machine learning algorithms to forecast malaria transmission dynamics in the Northwestern Highlands of Ethiopia based on climate vectors.
@@ -18,8 +23,6 @@ I am a **Digital Health Developer and Computational Data Scientist** passionate 
 * **[EMR-to-DHIS2](https://github.com/Samrizee/EMR-to-DHIS2)**
   * *Description:* Automated health informatics pipeline designed to safely extract, normalize, and transfer clinical data from an Electronic Medical Record (EMR) system straight into DHIS2.
   * *Tools:* Python, Health Data Exchange Standards, Integration APIs.
-* **[Samrizee.github.io](https://github.com/Samrizee/Samrizee.github.io)**
-  * *Description:* Personal developer portfolio site deployed via GitHub Pages, originally initiated for the *Women in Health Data Day* ecosystem.
 
 #### 📊 Data Engineering, NLP & Telecommunication APIs
 * **[sentiment-analysis](https://github.com/Samrizee/sentiment-analysis) & [financial-news-sentiment-analysis](https://github.com/Samrizee/financial-news-sentiment-analysis)**
@@ -44,7 +47,7 @@ I am a **Digital Health Developer and Computational Data Scientist** passionate 
 ### 🛠️ Technical Toolkit
 
 - **Languages & Frameworks:** Python (Pandas, NumPy, Scikit-Learn, Statsmodels), JavaScript/HTML
-- **Domains:** Health Informatics (DHIS2, EMR interoperability), Epidemiological Modeling, Systematic NLP Pipelines, Risk Analytics
+- **Domains:** Health Informatics (DHIS2, EMR interoperability), Localized NLP & RAG, Epidemiological Modeling, Risk Analytics
 - **Tools & Environments:** Ubuntu Linux, Bash Scripting, Jupyter Notebooks, Git/GitHub, Zotero (Research Architecture)
 
 ---
