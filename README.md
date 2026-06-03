@@ -12,7 +12,7 @@ I am a **Digital Health Developer and Computational Data Scientist** passionate 
 ### 🚀 Key Projects & Repositories
 
 #### 🌍 Social Impact & Cultural NLP
-* **[AI-learning-companion](https://github.com/Samrizee/AI-learning-companion) (Active Work) **
+* **[AI-learning-companion](https://github.com/Samrizee/AI-learning-companion) (Active Work)**
   * *Description:* A voice-first, RAG-powered learning companion that delivers educational content in indigenous African languages. It uses an end-to-end processing pipeline to extract content from textbooks, translate/culturally adapt it, and deliver it via speech architectures so children can learn in the languages they think in.
   * *Tools:* Python, RAG Pipeline (Ingestion & Vector Embedding), Translation Layers, Speech-to-Text (STT) & Text-to-Speech (TTS).
 
@@ -38,7 +38,7 @@ I am a **Digital Health Developer and Computational Data Scientist** passionate 
 * **[credit-risk-model](https://github.com/Samrizee/credit-risk-model) & [credittrust-RAG](https://github.com/Samrizee/credittrust-RAG)**
   * *Description:* Machine learning scoring systems evaluating default probabilities alongside retrieval-augmented configurations to optimize credit evaluations.
 * **[End-to-End-Insurance-Risk-Analytics-Predictive-Modeling](https://github.com/Samrizee/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling)**
-  * *Description:* Thorough risk metrics processing engine identifying insurance portfolio vulnerabilities through descriptive and predictive statistical models.
+  * *Description:* A thorough risk metrics processing engine identifying insurance portfolio vulnerabilities through descriptive and predictive statistical models.
 * **[fraud-cases-for-e-commerce-and-bank-transactions](https://github.com/Samrizee/fraud-cases-for-e-commerce-and-bank-transactions)**
   * *Description:* Classification system training anomaly detection engines on complex transactional sequences to preemptively flag fraudulent digital behavior.
 
