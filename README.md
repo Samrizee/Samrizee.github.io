@@ -1,67 +1,125 @@
-# Hi there, I'm Samrawit Zerfu Assefa 👋
+# Hi, I'm Samrawit Zerfu Assefa 👋
 
-I am a **Digital Health Developer and Computational Data Scientist** passionate about leveraging data-driven solutions, machine learning, and epidemiological modeling to transform public healthcare systems and solve complex analytical challenges.
+I'm a **Computational Data Scientist and Digital Health Researcher** interested in infectious disease modelling, machine learning, epidemic early warning, and health data systems.
 
-- 🔭 **Current Focus:** Climate-driven disease forecasting, hybrid epidemiological-ML modeling, and automated health data interoperability.
-- 🎓 **Education:** M.Sc. in Computational Data Science (Addis Ababa University) | B.Sc. in Health Informatics (University of Gondar).
-- 💼 **Experience:** Former Digital Health Developer at CDHi, specializing in digital health implementations, data pipelines, and health-tech systems.
-- 🛠️ **Tech Stack:** Python, Linux (Ubuntu), Data Science & Machine Learning Frameworks, Digital Health Architectures.
+My work brings together computational methods, epidemiological models, climate data, and routine health surveillance to investigate how data-driven approaches can support public health decisions. I'm particularly interested in the challenges of working with incomplete, delayed, and variable-quality data in resource-constrained settings.
 
----
-
-### 🚀 Key Projects & Repositories
-
-#### 🌍 Social Impact & Cultural NLP
-* **[AI-learning-companion](https://github.com/Samrizee/AI-learning-companion) (Active Work)**
-  * *Description:* A voice-first, RAG-powered learning companion that delivers educational content in indigenous African languages. It uses an end-to-end processing pipeline to extract content from textbooks, translate/culturally adapt it, and deliver it via speech architectures so children can learn in the languages they think in.
-  * *Tools:* Python, RAG Pipeline (Ingestion & Vector Embedding), Translation Layers, Speech-to-Text (STT) & Text-to-Speech (TTS).
-
-#### 🏥 Digital Health & Epidemiological Modeling
-* **[vectri-ml-malaria](https://github.com/Samrizee/vectri-ml-malaria) (Active Work)**
-  * *Description:* A hybrid predictive framework integrating the VECTRI epidemiological model with machine learning algorithms to forecast malaria transmission dynamics in the Northwestern Highlands of Ethiopia based on climate vectors.
-  * *Tools:* Python, VECTRI parameterization, Scikit-learn, Climate Data Dataframes.
-* **[EMR-to-DHIS2](https://github.com/Samrizee/EMR-to-DHIS2)**
-  * *Description:* Automated health informatics pipeline designed to safely extract, normalize, and transfer clinical data from an Electronic Medical Record (EMR) system straight into DHIS2.
-  * *Tools:* Python, Health Data Exchange Standards, Integration APIs.
-
-#### 📊 Data Engineering, NLP & Telecommunication APIs
-* **[sentiment-analysis](https://github.com/Samrizee/sentiment-analysis) & [financial-news-sentiment-analysis](https://github.com/Samrizee/financial-news-sentiment-analysis)**
-  * *Description:* Advanced Natural Language Processing pipelines built to extract and quantify market/public sentiments, establishing data-driven statistical correlations with asset movements.
-  * *Tools:* Python, Jupyter Notebook, Pandas, NLP Libraries.
-* **[telegram-data-pipeline](https://github.com/Samrizee/telegram-data-pipeline) & [Telegram_Analytical_API](https://github.com/Samrizee/Telegram_Analytical_API)**
-  * *Description:* End-to-end data pipelines focused on scraping, ingesting, and analyzing streaming messaging data, backed by analytical APIs for downstream insights.
-  * *Tools:* Python, REST APIs, Automation Scripts.
-* **[Amharic-E-commerce-Data-Extractor](https://github.com/Samrizee/Amharic-E-commerce-Data-Extractor)**
-  * *Description:* Targeted data extraction scraping pipeline built to isolate and structure Amharic language e-commerce interactions for localized semantic modeling.
-
-#### 📉 Predictive Analytics & Risk Intelligence
-* **[credit-risk-model](https://github.com/Samrizee/credit-risk-model) & [credittrust-RAG](https://github.com/Samrizee/credittrust-RAG)**
-  * *Description:* Machine learning scoring systems evaluating default probabilities alongside retrieval-augmented configurations to optimize credit evaluations.
-* **[End-to-End-Insurance-Risk-Analytics-Predictive-Modeling](https://github.com/Samrizee/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling)**
-  * *Description:* A thorough risk metrics processing engine identifying insurance portfolio vulnerabilities through descriptive and predictive statistical models.
-* **[fraud-cases-for-e-commerce-and-bank-transactions](https://github.com/Samrizee/fraud-cases-for-e-commerce-and-bank-transactions)**
-  * *Description:* Classification system training anomaly detection engines on complex transactional sequences to preemptively flag fraudulent digital behavior.
+- 🔬 **Research Interests:** Infectious disease modelling, machine learning, epidemic early warning, climate-sensitive disease prediction, and AI for public health.
+- 🌍 **Current Research:** Cholera early warning with EDAM and climate-informed malaria prediction using a VECTRI–machine learning approach.
+- 🎓 **Education:** MSc in Computational Data Science, Addis Ababa University; BSc in Health Informatics, University of Gondar.
+- 💻 **Technical Focus:** Python, machine learning, computational modelling, health data engineering, and digital health interoperability.
+- 🏥 **Digital Health Experience:** Electronic medical records, DHIS2, health information exchange, and health data systems implementation.
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🔬 Research & Selected Projects
 
-- **Languages & Frameworks:** Python (Pandas, NumPy, Scikit-Learn, Statsmodels), JavaScript/HTML
-- **Domains:** Health Informatics (DHIS2, EMR interoperability), Localized NLP & RAG, Epidemiological Modeling, Risk Analytics
-- **Tools & Environments:** Ubuntu Linux, Bash Scripting, Jupyter Notebooks, Git/GitHub, Zotero (Research Architecture)
+### 🌍 Infectious Disease Modelling & Early Warning
+
+**[VECTRI–ML Malaria Prediction](https://github.com/Samrizee/vectri-ml-malaria)**
+
+Research project investigating a hybrid approach to malaria prediction in the northwestern Ethiopian highlands by combining mechanistic epidemiological modelling, climate and environmental data, and machine learning.
+
+- **Research focus:** Climate-sensitive malaria prediction and spatial risk assessment.
+- **Methods and tools:** Python, VECTRI, scikit-learn, climate data processing, and predictive modelling.
+- **Objective:** Investigate whether combining mechanistic model outputs with machine learning can improve malaria risk prediction and support early warning.
+
+**EDAM — Climate-Informed Cholera Early Warning**
+
+Working with the Ethiopian Data Analytics Consortium (EDAM), in collaboration with Imperial College London, on a cholera early-warning use case combining climate and epidemiological surveillance data.
+
+- **Research focus:** Exploring whether climate and surveillance indicators can support advance prediction of cholera outbreaks.
+- **Methods and tools:** Epidemiological data analysis, climate data integration, and predictive modelling.
+
+### 🏥 Digital Health & Health Data Interoperability
+
+**[EMR-to-DHIS2](https://github.com/Samrizee/EMR-to-DHIS2)**
+
+A health informatics project focused on integrating electronic medical record data with DHIS2 to support structured health information exchange and reporting.
+
+- **Technical focus:** Data extraction, transformation, standardisation, and integration.
+- **Methods and tools:** Python, APIs, and health data interoperability concepts.
+
+**Digital Health Implementations — University of Gondar, CDHI**
+
+Worked on digital health systems and implementation projects involving electronic medical records, DHIS2, health data collection, and digital health workflows.
+
+Areas of experience included:
+- Bahmni/OpenMRS implementation and configuration.
+- DHIS2 Tracker and Aggregate systems.
+- Integration of data collection workflows with DHIS2.
+- WHO Digital Adaptation Kits for antenatal care and family planning.
+- REDCap, health data quality, and digital health training.
+
+### 🤖 AI, Machine Learning & NLP
+
+**[AI Learning Companion](https://github.com/Samrizee/AI-learning-companion)**
+
+A project exploring a voice-first, retrieval-augmented learning companion designed to make educational content more accessible in African languages.
+
+- **Focus:** Retrieval-augmented generation (RAG), multilingual educational content, and speech-based interaction.
+- **Technical areas:** Python, information retrieval, language processing, and speech technologies.
+
+**[Sentiment Analysis](https://github.com/Samrizee/sentiment-analysis)** · **[Financial News Sentiment Analysis](https://github.com/Samrizee/financial-news-sentiment-analysis)**
+
+Projects exploring natural language processing and sentiment analysis using textual data.
+
+- **Technical areas:** Python, pandas, Jupyter Notebook, and NLP.
+
+### 📊 Data Engineering & Predictive Analytics
+
+Additional projects explore data collection, processing, API development, and predictive analytics:
+
+- [Telegram Data Pipeline](https://github.com/Samrizee/telegram-data-pipeline)
+- [Telegram Analytical API](https://github.com/Samrizee/Telegram_Analytical_API)
+- [Amharic E-commerce Data Extractor](https://github.com/Samrizee/Amharic-E-commerce-Data-Extractor)
+- [Credit Risk Model](https://github.com/Samrizee/credit-risk-model)
+- [CreditTrust RAG](https://github.com/Samrizee/credittrust-RAG)
+- [Insurance Risk Analytics & Predictive Modelling](https://github.com/Samrizee/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling)
+- [Fraud Detection — E-commerce and Bank Transactions](https://github.com/Samrizee/fraud-cases-for-e-commerce-and-bank-transactions)
+
+These projects cover different aspects of data processing, machine learning, text analysis, and risk assessment.
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technical Skills
+
+**Programming & Data Science**
+- Python, pandas, NumPy, scikit-learn, and statistical analysis.
+- Data cleaning, exploratory data analysis, feature engineering, and model evaluation.
+- Jupyter Notebook, Git, GitHub, Linux, and Bash.
+
+**Computational & Epidemiological Modelling**
+- Machine learning for disease prediction.
+- Climate and epidemiological data integration.
+- Mechanistic model and machine learning integration.
+- Spatial and temporal disease-risk analysis.
+
+**Digital Health & Interoperability**
+- DHIS2 Tracker and Aggregate.
+- Bahmni and OpenMRS.
+- HL7 FHIR fundamentals.
+- REDCap and digital health workflows.
+- Health data integration, standardisation, and reporting.
+
+**Data Visualisation & Applications**
+- Power BI, Plotly, and Streamlit.
+- Data dashboards and analytical applications.
+- SQL, PostgreSQL, and MySQL.
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samrizee&show_icons=true&theme=radical&count_private=true" alt="Samrizee's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrizee&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samrizee&show_icons=true&theme=radical" alt="Samrawit's GitHub statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrizee&layout=compact&theme=radical" alt="Most-used programming languages" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [samrawit-zerfu-assefa](https://www.linkedin.com/in/samrawit-zerfu-assefa-3a8478151/) 
-- 📧 **Email:** Samrawitzerfu@gmail.com
+- 💼 **LinkedIn:** [Samrawit Zerfu Assefa](https://www.linkedin.com/in/samrawit-zerfu-assefa-3a8478151/)
+- 💻 **GitHub:** [@Samrizee](https://github.com/Samrizee)
+- 📧 **Email:** [Samrawitzerfu@gmail.com](mailto:Samrawitzerfu@gmail.com)
