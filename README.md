@@ -132,14 +132,6 @@ These projects cover different aspects of data processing, machine learning, tex
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samrizee&show_icons=true&theme=radical" alt="Samrawit's GitHub statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrizee&layout=compact&theme=radical" alt="Most-used programming languages" width="48%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
